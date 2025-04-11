@@ -1,0 +1,1 @@
+-- SQL Schema for Candidates and Job Descriptions
